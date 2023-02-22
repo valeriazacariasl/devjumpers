@@ -52,7 +52,7 @@
 
 | NOMBRE | GITHUB |
 | --- | --- |
-| Simón Santillán | () |
+| Simón Santillán | https://github.com/SimonSantillan |
 | Santiago Baliño| https://github.com/Luvwen/devjumpers |
 | Aylen | https://github.com/Loreaylen/devjumpers |
 
